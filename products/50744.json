@@ -1,0 +1,11 @@
+{
+    "id": 50744,
+    "name": "Bicicleta",
+    "description": "¡La mejor BMX pequeña del mercado! Frenos traseros y cuadro duradero de acero Hi-Ten.",
+    "cost": 10999,
+    "currency": "UYU",
+    "soldCount": 8,
+    "category": "Juguetes",
+    "images": ["https://www.amazon.com/Mongoose-Freestyle-bicicleta-principiantes-engranaje/dp/B07WLJR515/ref=sr_1_1_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2O31AV5CQ8OKG&keywords=Boy%E2%80%99s%2BBicycle&qid=1657648073&sprefix=bicicleta%2Bni%C3%B1o%2Caps%2C241&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFBT0xRSEdIV1U1V1MmZW5jcnlwdGVkSWQ9QTA3MDEwMDFORFVHNzVaOVNJRTMmZW5jcnlwdGVkQWRJZD1BMDIxNDg3NDJOVU9LVjVNQ0pONFcmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"],
+    "relatedProducts": []
+}
