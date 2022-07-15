@@ -12,5 +12,16 @@
         "img/prod50741_3.jpg",
         "img/prod50741_4.jpg"
     ],
-    "relatedProducts": []
+    "relatedProducts": [
+        {
+            "id":50742,
+            "name":"Pelota de básquetbol",
+            "image": "img/prod50742_1.jpg"
+        },
+        {
+            "id":50744,
+            "name":"Bicicleta",
+            "image": "img/prod50744_1.jpg"
+        }
+    ]
 }

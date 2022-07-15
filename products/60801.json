@@ -6,6 +6,22 @@
     "currency": "UYU",
     "soldCount": 88,
     "category": "Muebles",
-    "images": ["https://www.ikea.com/es/es/p/jokkmokk-mesa-4-sillas-tint-envj-50211104/"],
-    "relatedProducts": []
+    "images": [
+        "img/prod60801_1.jpg",
+        "img/prod60801_2.jpg",
+        "img/prod60801_3.jpg",
+        "img/prod60801_4.jpg"
+    ],
+    "relatedProducts": [
+        {
+            "id":60802,
+            "name":"Sofá",
+            "image": "img/prod60802_1.jpg"
+        },
+        {
+            "id":60804,
+            "name":"Mesa de centro",
+            "image": "img/prod60804_1.jpg"
+        }
+    ]
 }

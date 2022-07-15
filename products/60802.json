@@ -6,6 +6,22 @@
     "currency": "UYU",
     "soldCount": 12,
     "category": "Muebles",
-    "images": ["ikea.com/es/es/p/bollstanas-sofa-3-plazas-chaiselongue-skiftebo-gris-oscuro-00472962/"],
-    "relatedProducts": []
+    "images": [
+        "img/prod60802_1.jpg",
+        "img/prod60802_2.jpg",
+        "img/prod60802_3.jpg",
+        "img/prod60802_4.jpg"
+    ],
+    "relatedProducts": [
+        {
+            "id":60801,
+            "name":"Juego de comedor",
+            "image": "img/prod60801_1.jpg"
+        },
+        {
+            "id":60803,
+            "name":"Armario",
+            "image": "img/prod60803_1.jpg"
+        }
+    ]
 }

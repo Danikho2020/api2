@@ -12,5 +12,16 @@
         "img/prod50923_3.jpg",
         "img/prod50923_4.jpg"
     ],
-    "relatedProducts": [50922, 50921]
+    "relatedProducts": [
+        {
+            "id":50924,
+            "name":"Peugeot 208",
+            "image": "img/prod50924_1.jpg"
+        },
+        {
+            "id":50922,
+            "name":"Fiat Way",
+            "image": "img/prod50922_1.jpg"
+        }
+    ]
 }

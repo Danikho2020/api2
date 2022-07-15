@@ -9,12 +9,7 @@
             "cost": 13500,
             "currency": "USD",
             "soldCount": 14,
-            "category": "Autos",
-            "images": "img/prod50921_1.jpg",
-            "relatedProducts": [
-                50922,
-                50924
-            ]
+            "image": "img/prod50921_1.jpg"
         },
         {
             "id": 50922,
@@ -23,12 +18,7 @@
             "cost": 14500,
             "currency": "USD",
             "soldCount": 52,
-            "category": "Autos",
-            "images": "img/prod50922_1.jpg",
-            "relatedProducts": [
-                50921,
-                50923
-            ]
+            "image": "img/prod50922_1.jpg"
         },
         {
             "id": 50923,
@@ -37,12 +27,7 @@
             "cost": 12500,
             "currency": "USD",
             "soldCount": 25,
-            "category": "Autos",
-            "images": "img/prod50923_1.jpg",
-            "relatedProducts": [
-                50922,
-                50921
-            ]
+            "image": "img/prod50923_1.jpg"
         },
         {
             "id": 50924,
@@ -51,12 +36,7 @@
             "cost": 15200,
             "currency": "USD",
             "soldCount": 17,
-            "category": "Autos",
-            "images": "img/prod50924_1.jpg",
-            "relatedProducts": [
-                50921,
-                50922
-            ]
+            "image": "img/prod50924_1.jpg"
         }
     ]
 }
