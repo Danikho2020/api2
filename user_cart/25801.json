@@ -16,6 +16,14 @@
             "unitCost": 12500,
             "currency": "USD",
             "image": "img/prod50923_1.jpg"
+        },
+        {
+            "id": 50924,
+            "name": "Peugot 208",
+            "count": 1,
+            "unitCost": 15200,
+            "currency": "USD",
+            "image": "img/prod50924_1.jpg"
         }
     ]
 }
